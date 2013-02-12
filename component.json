@@ -1,0 +1,16 @@
+{
+  "name": "font-rambla",
+  "repo": "flokk/font-rambla",
+  "description": "Rambla font",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "font-rambla.css"
+  ],
+  "fonts": [
+    "font-rambla.woff"
+  ]
+}
